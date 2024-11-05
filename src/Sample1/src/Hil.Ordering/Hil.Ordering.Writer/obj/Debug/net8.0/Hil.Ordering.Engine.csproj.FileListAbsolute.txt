@@ -1,0 +1,15 @@
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\bin\Debug\net8.0\Hil.Ordering.Engine.deps.json
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\bin\Debug\net8.0\Hil.Ordering.Engine.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\bin\Debug\net8.0\Hil.Ordering.Engine.pdb
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\bin\Debug\net8.0\Hil.Ordering.Models.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\bin\Debug\net8.0\Hil.Ordering.Models.pdb
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.csproj.AssemblyReference.cache
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.AssemblyInfoInputs.cache
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.AssemblyInfo.cs
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.csproj.CoreCompileInputs.cache
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Orde.E0038F2D.Up2Date
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\refint\Hil.Ordering.Engine.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\Hil.Ordering.Engine.pdb
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Writer\obj\Debug\net8.0\ref\Hil.Ordering.Engine.dll

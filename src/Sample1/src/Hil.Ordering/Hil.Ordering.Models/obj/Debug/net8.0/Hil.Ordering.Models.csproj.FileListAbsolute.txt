@@ -1,0 +1,11 @@
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\bin\Debug\net8.0\Hil.Ordering.Models.deps.json
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\bin\Debug\net8.0\Hil.Ordering.Models.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\bin\Debug\net8.0\Hil.Ordering.Models.pdb
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.AssemblyInfoInputs.cache
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.AssemblyInfo.cs
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.csproj.CoreCompileInputs.cache
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\refint\Hil.Ordering.Models.dll
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\Hil.Ordering.Models.pdb
+D:\Source\Channel\Bourse\Hil.Ordering\Hil.Ordering.Models\obj\Debug\net8.0\ref\Hil.Ordering.Models.dll
